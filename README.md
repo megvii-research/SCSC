@@ -7,3 +7,6 @@ refer to [Swin](https://github.com/microsoft/Swin-Transformer/blob/main/get_star
 ## Train
 sh run.sh
 
+## License
+SCSC is released under the Apache 2.0 license.
+
